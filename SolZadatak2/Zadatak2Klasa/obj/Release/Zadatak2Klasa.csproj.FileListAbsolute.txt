@@ -1,0 +1,10 @@
+C:\CSharp\SolZadatak2\Zadatak2Klasa\bin\Release\Zadatak2Klasa.dll
+C:\CSharp\SolZadatak2\Zadatak2Klasa\bin\Release\Zadatak2Klasa.pdb
+C:\CSharp\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.csproj.CoreCompileInputs.cache
+C:\CSharp\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.dll
+C:\CSharp\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.pdb
+C:\CSharp\Kolikvijum2\SolZadatak2\Zadatak2Klasa\bin\Release\Zadatak2Klasa.dll
+C:\CSharp\Kolikvijum2\SolZadatak2\Zadatak2Klasa\bin\Release\Zadatak2Klasa.pdb
+C:\CSharp\Kolikvijum2\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.csproj.CoreCompileInputs.cache
+C:\CSharp\Kolikvijum2\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.dll
+C:\CSharp\Kolikvijum2\SolZadatak2\Zadatak2Klasa\obj\Release\Zadatak2Klasa.pdb
